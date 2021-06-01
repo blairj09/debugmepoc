@@ -1,0 +1,13 @@
+Package: debugpoc
+Type: Package
+Title: Proof of concept for debugme package
+Version: 0.1.0
+Author: James Blair
+Maintainer: James Blair
+Description: A very simple package
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true
+Imports: 
+    debugme
+RoxygenNote: 7.1.1
