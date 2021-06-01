@@ -2,9 +2,9 @@ Package: debugpoc
 Type: Package
 Title: Proof of concept for debugme package
 Version: 0.1.0
-Author: James Blair
-Maintainer: James Blair
-Description: A very simple package
+Authors@R: person("James", "Blair", email = "james.m.blair09@gmail.com",
+                  role = c("aut", "cre"))
+Description: A very simple package.
 License: MIT + file LICENSE
 Encoding: UTF-8
 LazyData: true
